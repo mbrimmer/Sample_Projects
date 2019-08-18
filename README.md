@@ -1,7 +1,7 @@
-# W207_Assignments
+# Sample Projects
 
-## Assignment 1: Digit Classification with KNN and Naive Bayes
+## Digit Classification (with KNN and Naive Bayes)
 
-## Assignment 2: Topic Classification
+## Topic Classification
 
-## Assignment 3: Poisonous Mushrooms classification (Principal Components / Dimensionality Reduction)
+## Dimensionality Reduction (PCA) - Poisonous Mushrooms Classification
